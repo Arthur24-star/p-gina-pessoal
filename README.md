@@ -26,3 +26,4 @@ Você pode baixar ou clonar este repositório:
 
 
 git clone https://github.com/arthur24-starhttps://github.com/Arthur24-star/p-gina-pessoal/blob/main/index.html%20pagina%20pessoal.html
+https://github.com/Arthur24-star/p-gina-pessoal/blob/main/style.css%20pagina%20pessoal.css
