@@ -29,16 +29,17 @@ git clone https://github.com/arthur24-starhttps://github.com/Arthur24-star/p-gin
 https://github.com/Arthur24-star/p-gina-pessoal/blob/main/style.css%20pagina%20pessoal.css
 
 📚 O que eu aprendi
+
 Durante o desenvolvimento deste projeto, aprendi e pratiquei os seguintes conceitos:
 
--Criação de uma estrutura básica de uma página HTML
+• Criação de uma estrutura básica de uma página HTML
 
--Utilização de tags semânticas como <header>, <main>, <section> e <footer>
+• Utilização de tags semânticas como <header>, <main>, <section> e <footer>
 
--Estilização com CSS externo e uso de seletores básicos
+• Estilização com CSS externo e uso de seletores básicos
 
--Organização do conteúdo em seções
+• Organização do conteúdo em seções
 
--Aplicação de cores, margens, fontes e espaçamento para melhorar o layout
+• Aplicação de cores, margens, fontes e espaçamento para melhorar o layout
 
--Noções iniciais de responsividade com a meta tag viewport
+• Noções iniciais de responsividade com a meta tag viewport
