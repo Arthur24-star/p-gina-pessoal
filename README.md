@@ -25,4 +25,4 @@ A página possui as seguintes seções:
 Você pode baixar ou clonar este repositório:
 
 
-git clone https://github.com/seu-usuario arthur24-star 
+git clone https://github.com/arthur24-star 
